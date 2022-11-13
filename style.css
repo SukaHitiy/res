@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Roboto&display=swap');
+
+*{
+    margin: 10px;
+}
+
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+
+
+body{
+    font-family: roboto,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #0f141e;
+    background-color: #d5d6d0;
+}
+
+img{
+    border-radius: 30px;
+    box-shadow: 4px 4px 14px rgba(0,0,0,0.25);
+    
+}
+
+.card{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.card{
+    border: 2px solid #f0f0d8;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0f0d8;
+    border-radius: 5px;
+    box-shadow: 4px 4px 14px rgba(0,0,0,0.25);
+}
+
+.para{
+word-spacing: 2px;
+font-style: italic;
+font-family: kol;
+font-size: 19px;
+font-weight: 400;
+background-color: azure;
+border-radius: 15px;
+padding: 10px;
+border: 1px solid green;
+}
+
+.vk{
+    border: 2px solid #0073f7;
+    border-radius: 15px;
+    
+    margin: 10px;
+    padding-left: 10px;
+    background-color: #0073f7;
+}
+
+a{
+    color: white ;
+}
+
+table{
+    border: 2px solid black;
+}
+
+th{
+    border: 2px solid black;
+    padding: 0px;
+}
